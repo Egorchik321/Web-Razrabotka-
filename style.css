@@ -1,0 +1,50 @@
+body
+{
+background-image: URL(kartina.png);
+}
+
+h1
+{
+    text-align:center;
+    color:red;
+}
+
+h2
+{
+text-indent: 3%;
+color:blue
+}
+
+.text1
+{
+    text-indent: 2%;
+    color:#006400;
+    font-size: 110%;
+}
+
+.text2
+{
+    text-indent:2%
+}
+
+ul
+{
+    list-style-image: URL(kartina2.png);
+    font-size:110%;
+    line-height: 2;    
+}
+
+.ssilka
+{
+    color:#8B0000;
+}
+
+.ssilka2
+{
+    color:#C71585;
+}
+
+.ssilka3
+{
+    color:#FF4500;
+}
