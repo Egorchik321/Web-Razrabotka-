@@ -1,0 +1,114 @@
+@font-face {
+    font-family: Montserrat-Black;
+    src: url(Fonts/Montserrat-Black.ttf)
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url(Fonts/Montserrat-Light.ttf);
+    }
+
+@font-face {
+    font-family: Ubuntu;
+    src: url(Fonts/Ubuntu-Light.ttf);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(Fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url(Fonts/Montserrat-Bold.ttf);
+}
+
+#title
+{
+background-color:#ff3c68;
+color:#fff
+}
+
+h1 
+{
+    font-family: Montserrat-Black;      
+    font-size:  3rem;
+    line-height:1,5;
+}
+
+#features,#testimonials,#pricing,#cta,#footer,em,.nav-item,.col-lg-6
+{
+    font-family: Montserrat; 
+}
+
+.navbar-brand
+{
+    font-size: 2.5 rem;
+    font-family: Ubuntu;
+    font-weight: bold; 
+}
+
+.navbar
+{
+    padding-bottom: 4.5rem;
+}
+ 
+.nav-item
+{
+    padding:0,18px;
+}
+
+.nav-link
+{
+    font-size: 120%;
+    font-family:Montserrat-Light;
+}
+
+.download-button
+{
+    margin-left:5%;margin-top:5%;margin-bottom:0%;margin-right:3%;
+}
+
+.title-image
+{
+width:60%;
+transform:rotate(25deg);
+}
+
+#testimonials
+{
+text-align: center;
+background-color:#ef8172;
+color:#FFFFFF;
+}
+
+h2
+{
+    font-family:Montserrat-Bold;
+    font-size: 3rem;
+    line-height: 1,5;
+}
+
+.testimonial-image
+{
+width: 10%;
+border-radius: 100% 100% 100% 100%;
+margin:20px;
+}
+
+#press
+{
+    text-align: center;
+    padding-bottom: 3%;
+    background-color:#ef8172;
+}
+
+.press-logo
+{
+    width:15%;
+    margin:20px 20px 50px;
+}
+
+#pricing
+{
+    text-align: center;
+}
